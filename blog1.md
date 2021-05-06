@@ -27,7 +27,7 @@ Policies - made up of documents, called Policy documents. These are written in J
 ```
 
 Here is an example of what a full allow Role looks like:
-![Image]()
+![Image](https://github.com/mikaart/cit-481/blob/master/images/blog1.1.PNG)
 
 It is important to know that IAM is a universal service, unlike some other services in AWS. It applies to all regions at this time. 
 New users have **NO** permissions when first created, besides the root user which is the account first created in AWS. That one has God powers.
