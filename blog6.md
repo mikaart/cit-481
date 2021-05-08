@@ -16,7 +16,7 @@ It's a virtual device designed to balance the load from the webservers or applic
 
 ```
 
-![Image](https://github.com/mikaart/cit-481/blob/master/images/blog6.1.PNG)
+![Image](https://github.com/mikaart/cit-481/blob/master/images/6.1.PNG)
 
 
 Application Load Balancers are best suited for Load balancing of HTTP/S traffic. They operate at Layer 7 (Application) and are application-aware. They are intelligent, and you can create advanced request routing, sending specified requests to specific web servers. You can utilize such tools as X-Forwarded-For header and others for applications with user specific IP.

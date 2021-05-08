@@ -6,7 +6,7 @@ Hello, today in my blog I will be talking about VPC.
 
 Amazon Virtual Private cloud lets you provision a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual netoworking environment, including selection of your own IP address range, creation of subnets, and configuration of route tables and network gateways. You can create a public-facing subnet for your webserver that has access to the Internet, and place your backend systems such as databases or application servers in a private-facing subnet with no Internet access. You can leverage multiple layers of security, including security grou[s and network access control lists, to help control access to Amazon EC2 instances in each subnet.
 
-![Image](https://github.com/mikaart/cit-481/blob/master/images/blog5.2.PNG)
+![Image](https://github.com/mikaart/cit-481/blob/master/images/5.2.PNG)
 
 
 ### VPC Functionality
